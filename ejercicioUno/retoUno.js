@@ -1,0 +1,1 @@
+document.querySelector("h1").innerHTML="esta pagina con es compatible con tu navegador"
